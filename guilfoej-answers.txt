@@ -1,0 +1,38 @@
+CSSE376
+Eric Guilford
+Lab 2 Answers
+
+1) Yes, git, svn, and *shutter* Visual Source Safe
+
+2) Yes, Windows Shell, Bash, PowerShell, and PuTTY over SSH and Telnet
+
+3) git add adds the files to the list of files to be commited
+
+4) git commit adds a list of files to be commited to the local repository
+
+5) git push takes all the changes on your local repository, and applies them to
+   the online remote repository.
+
+6) 2, 3 (including the remote)
+   
+7) 3 (including the initial commit)
+
+8) isidor3 (me)
+
+9) The second commit changed the readme.md file.   
+
+10) 2 members, 3 branches
+
+11) 0 on master, 1 per branch
+
+12) git branch creates sub-repository based on a state of the master repository
+
+13) git checkout changes the working branch.
+
+14) 2 members, 3 versions of README.md
+
+15) 2 members, two merges, one manual, one fast-forward
+
+16) 3
+
+17) Yes, one is, because we haven't pushed any more updates to the master branch.
